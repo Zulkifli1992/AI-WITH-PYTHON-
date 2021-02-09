@@ -1,5 +1,5 @@
 # AI-WITH-PYTHON-
-skrip untuk Loading data di python 
+#skrip untuk Loading data di python 
 
 
  from sklearn import datasets
